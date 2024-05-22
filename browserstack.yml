@@ -1,0 +1,15 @@
+userName: shital_dta8Fp
+accessKey: nF19ptkvHtwJ8zYoVgBV
+framework: java
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S22 Ultra
+    platformVersion: 12.0
+browserstackLocal: true
+buildName: bstack-demo
+projectName: BrowserStack Sample
+debug: true
+networkLogs: true
+parallelsPerPlatform: 2
+
+

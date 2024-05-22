@@ -1,0 +1,50 @@
+18:25:13.460 [ApplicationImpl pooled thread 3610] INFO  c.b.l.BrowserStackRunExtension - testng
+18:25:13.461 [ApplicationImpl pooled thread 3610] INFO  com.browserstack.utils.Helpers - null
+18:25:13.462 [ApplicationImpl pooled thread 3610] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:25:13.462 [ApplicationImpl pooled thread 3610] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:25:13.462 [ApplicationImpl pooled thread 3610] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:41:47.199 [ApplicationImpl pooled thread 3628] INFO  c.b.l.BrowserStackRunExtension - testng
+18:41:47.200 [ApplicationImpl pooled thread 3628] INFO  com.browserstack.utils.Helpers - null
+18:41:47.200 [ApplicationImpl pooled thread 3628] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:41:47.200 [ApplicationImpl pooled thread 3628] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:41:47.200 [ApplicationImpl pooled thread 3628] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:43:26.155 [ApplicationImpl pooled thread 3635] INFO  c.b.l.BrowserStackRunExtension - testng
+18:43:26.155 [ApplicationImpl pooled thread 3635] INFO  com.browserstack.utils.Helpers - null
+18:43:26.155 [ApplicationImpl pooled thread 3635] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:43:26.155 [ApplicationImpl pooled thread 3635] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:43:26.155 [ApplicationImpl pooled thread 3635] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+18:53:45.791 [ApplicationImpl pooled thread 3702] INFO  c.b.l.BrowserStackRunExtension - testng
+18:53:45.791 [ApplicationImpl pooled thread 3702] INFO  com.browserstack.utils.Helpers - null
+18:53:45.792 [ApplicationImpl pooled thread 3702] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:53:45.792 [ApplicationImpl pooled thread 3702] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+18:53:45.792 [ApplicationImpl pooled thread 3702] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+19:00:05.399 [ApplicationImpl pooled thread 3715] INFO  c.b.l.BrowserStackRunExtension - testng
+19:00:05.399 [ApplicationImpl pooled thread 3715] INFO  com.browserstack.utils.Helpers - null
+19:00:05.400 [ApplicationImpl pooled thread 3715] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:00:05.400 [ApplicationImpl pooled thread 3715] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:00:05.400 [ApplicationImpl pooled thread 3715] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+19:01:05.027 [ApplicationImpl pooled thread 3711] INFO  c.b.l.BrowserStackRunExtension - testng
+19:01:05.027 [ApplicationImpl pooled thread 3711] INFO  com.browserstack.utils.Helpers - null
+19:01:05.028 [ApplicationImpl pooled thread 3711] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:01:05.028 [ApplicationImpl pooled thread 3711] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:01:05.028 [ApplicationImpl pooled thread 3711] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+19:01:28.705 [ApplicationImpl pooled thread 3714] INFO  c.b.l.BrowserStackRunExtension - testng
+19:01:28.705 [ApplicationImpl pooled thread 3714] INFO  com.browserstack.utils.Helpers - null
+19:01:28.706 [ApplicationImpl pooled thread 3714] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:01:28.706 [ApplicationImpl pooled thread 3714] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:01:28.706 [ApplicationImpl pooled thread 3714] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+19:12:20.826 [ApplicationImpl pooled thread 3743] INFO  c.b.l.BrowserStackRunExtension - testng
+19:12:20.827 [ApplicationImpl pooled thread 3743] INFO  com.browserstack.utils.Helpers - null
+19:12:20.827 [ApplicationImpl pooled thread 3743] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:12:20.827 [ApplicationImpl pooled thread 3743] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:12:20.827 [ApplicationImpl pooled thread 3743] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+19:13:17.731 [ApplicationImpl pooled thread 3755] INFO  c.b.l.BrowserStackRunExtension - testng
+19:13:17.732 [ApplicationImpl pooled thread 3755] INFO  com.browserstack.utils.Helpers - null
+19:13:17.732 [ApplicationImpl pooled thread 3755] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:13:17.732 [ApplicationImpl pooled thread 3755] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:13:17.732 [ApplicationImpl pooled thread 3755] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4
+19:15:42.914 [ApplicationImpl pooled thread 3772] INFO  c.b.l.BrowserStackRunExtension - testng
+19:15:42.914 [ApplicationImpl pooled thread 3772] INFO  com.browserstack.utils.Helpers - null
+19:15:42.915 [ApplicationImpl pooled thread 3772] INFO  com.browserstack.utils.Helpers - /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:15:42.915 [ApplicationImpl pooled thread 3772] INFO  c.b.l.BrowserStackRunExtension - Agent path: /Users/megatron/.m2/repository/com/browserstack/browserstack-java-sdk/1.14.0/browserstack-java-sdk-1.14.0.jar
+19:15:42.915 [ApplicationImpl pooled thread 3772] INFO  c.b.l.BrowserStackRunExtension - Plugin version: v1.1.4

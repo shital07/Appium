@@ -1,0 +1,2 @@
+-Command for appPackage and appActivity
+adb shell dumpsys window | grep -E 'mCurrentFocus'
